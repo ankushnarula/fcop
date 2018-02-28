@@ -82,6 +82,8 @@ These requirements on _conduct_ apply to _members_ at all times, even when they 
     * **Harassment**. Someone has _harassed_ them.
     * **Prying**. Someone has violated their privacy.
     * **Insulting**. Someone has _insulted_ them or a group they belong to.
+    * **Doxxing**. Someone has _doxxed_ them.
+    * **Retaliating**. Someone has _retaliated_ against them.
  * **Arbiter**. We define _arbiter_ to be one or more persons designated by us to resolve an _incident_ report.
  * **Communication**. We define _communication_ to be any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
  * **Community**. We define the _community_ to be a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but may not extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed consequences on _violators_.
